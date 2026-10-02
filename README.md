@@ -233,4 +233,4 @@ This repository serves as the official landing page for Wings 3D. The software i
 **Get the most recent version of Wings 3D today!**
 
 ---
-**Last updated:** 2026-10-01 20:00:17 UTC
+**Last updated:** 2026-10-02 00:22:29 UTC
